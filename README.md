@@ -1,11 +1,11 @@
 # todo-server
 
-Install dependencies
-npm install
+Install dependencies<br/>
+<b>npm install</b><br/>
 
-Run migrations
-npx sequelize-cli db:migrate
+Run migrations<br/>
+<b>npx sequelize-cli db:migrate<b/><br/>
 
-Serve the application
-npm run serve
+Serve the application<br/>
+<b>npm run serve</b>
 
